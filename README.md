@@ -1,6 +1,6 @@
 # RTX Audio Visualizer — SDK
 
-The contract surface for the **RTX Audio Visualizer** (a Visentrix product
+The contract surface for the **RTX Audio Visualizer** (a Sentinal Systems UK product
 under Sentinal Systems). This repo holds interface specifications — not
 implementation source — for two things:
 
